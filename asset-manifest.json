@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/sdggame-live/static/css/main.f31b4c9b.css",
-    "main.js": "/sdggame-live/static/js/main.b2aec7c6.js",
+    "main.js": "/sdggame-live/static/js/main.d3829915.js",
     "static/js/453.e3949589.chunk.js": "/sdggame-live/static/js/453.e3949589.chunk.js",
     "static/media/utrechtggm.png": "/sdggame-live/static/media/utrechtggm.58baa5cbb01c266e458f.png",
     "index.html": "/sdggame-live/index.html",
     "main.f31b4c9b.css.map": "/sdggame-live/static/css/main.f31b4c9b.css.map",
-    "main.b2aec7c6.js.map": "/sdggame-live/static/js/main.b2aec7c6.js.map",
+    "main.d3829915.js.map": "/sdggame-live/static/js/main.d3829915.js.map",
     "453.e3949589.chunk.js.map": "/sdggame-live/static/js/453.e3949589.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f31b4c9b.css",
-    "static/js/main.b2aec7c6.js"
+    "static/js/main.d3829915.js"
   ]
 }
