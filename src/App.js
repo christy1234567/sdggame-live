@@ -1,4 +1,4 @@
-import { HashRouter, Routes, Route } from 'react-router-dom';
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Home from './pages/Home'
 import Stats from './pages/Stats'
 import About from './pages/About'
@@ -96,7 +96,7 @@ export default function App() {
     
     <div className='home'>
 
-        <HashRouter basename="/sdggame-live">
+        <BrowserRouter basename="/sdggame-live">
         <Routes>
             <Route index element = {<Home/>}/>
             <Route path='/home' element = {<Home/>}/>
@@ -111,7 +111,7 @@ export default function App() {
             <Route path="/lastpage" element={<LastPage />} />
             <Route path='*' element = {<NoPage/>}/>
         </Routes>
-        </HashRouter>
+        </BrowserRouter>
     </div>
  
     </>
